@@ -5,7 +5,7 @@ Eine Skill-Anweisung für KI-LLM-Projekte oder -Agenten zur Landeswahl des Bunde
 Kopiere die Skill-Anweisung in die Projektanweisung oder Angentenanweisung deiner bevorzugten LLM.
 Anschließend übergebe dem LLM entweder die URL oder das PDF für das Wahlprogramm der Partei.
 
-'# Berlin Election Program Summarizer
+`# Berlin Election Program Summarizer
 
 This skill enables the structured analysis and summarization of election programs for the Berlin 2026 state elections, converting complex political documents into "Leichte Sprache" (Plain German).
 
@@ -46,4 +46,4 @@ Provide a serious, concrete, and detailed summary of an election program based s
 ## Output Format
 - **Title**: Zusammenfassung des Wahlprogramms der [Partei] 2026.
 - **Sections**: Thematic headings (e.g., ## Wohnen).
-- **Content**: Bullet points in Plain German detailing the concrete goals.'
+- **Content**: Bullet points in Plain German detailing the concrete goals.`
